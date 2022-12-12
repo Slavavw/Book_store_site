@@ -1,0 +1,1 @@
+"dev": "concurrently \"set NODE_ENV=development&&webpack -- \" \"nodemon server \"",

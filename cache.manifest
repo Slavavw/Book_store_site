@@ -1,0 +1,8 @@
+CACHE MANIFEST
+
+#cache version 1
+
+CACHE:
+index.html
+dist/app.js
+css/style.css

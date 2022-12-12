@@ -1,0 +1,8 @@
+$main_background_alternative: radial-gradient(circle at 0% 0%, #5B483A 0%, #262425ad 100%) #583b26;
+$main_background: radial-gradient(100% 240% at 0% 0%, #cf814a9f 0%, #c27640c4 100%) #1cb329a6;
+
+@font-face {
+  font-family: 'smooche-fonts';
+  src: url("/fonts/smooch-regular-webfont.woff") format("woff"),
+    url("/fonts/smooch-regular-webfont.woff2") format("woff2");
+}
